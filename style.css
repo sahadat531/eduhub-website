@@ -84,6 +84,12 @@ body{
 .courses .course-box{
     border: 1px solid lightgray;
 }
+
+/* About Us Section Styling */
+.eduhub-about{
+    background-color: #F4FAFD;
+}
+
 /* Responsive Style */
 
 /* @media screen and (max-width: 480px) {
