@@ -9,7 +9,7 @@ body{
     font-size: 1rem;
     font-weight: 500;
     color: white;
-    background-color: #289BDE;;
+    background-color: #289BDE;
     padding: 0.7rem 1.8rem;
     border: 1px solid #289bde;
     border-radius: 5px;
@@ -90,6 +90,12 @@ body{
     background-color: #F4FAFD;
 }
 
+.call-to-action{
+    background-color: #289BDE;
+}
+.register-btn{
+    color: #289BDE;
+}
 /* Responsive Style */
 
 /* @media screen and (max-width: 480px) {
