@@ -96,6 +96,16 @@ body{
 .register-btn{
     color: #289BDE;
 }
+
+/* Card Styling */
+.card img{
+    transition: all .4s ease-in-out;
+}
+.card img:hover{
+transform: scale(1.09);
+transition: all .4s ease-in-out;
+}
+
 /* Responsive Style */
 
 /* @media screen and (max-width: 480px) {
